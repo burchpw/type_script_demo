@@ -1,0 +1,32 @@
+{
+  "name": "type_script_demo",
+  "version": "1.0.0",
+  "description": "type script demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burchpw/type_script_demo.git"
+  },
+  "author": "burchpw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burchpw/type_script_demo/issues"
+  },
+  "homepage": "https://github.com/burchpw/type_script_demo#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.27.0",
+    "eslint": "^9.27.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.2.0",
+    "prettier": "3.5.3",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.32.1"
+  }
+}
