@@ -21,3 +21,11 @@ Run `npm init`
 [TypeScript](https://www.typescriptlang.org/) `npm install typescript --save-dev`  
 [ESLint](https://eslint.org/docs/latest/use/getting-started) `npm init @eslint/config@latest`  
 [Prettier](https://prettier.io/docs/install) `npm install --save-dev --save-exact prettier`  
+[TS for React](https://react.dev/learn/typescript#adding-typescript-to-an-existing-react-project) `npm install @types/react @types/react-dom`  
+
+### Add React Dev Tools
+[chrome](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)  
+[firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)  
+[edge](https://microsoftedge.microsoft.com/addons/detail/react-developer-tools/gpphkfbcpidddadnkolkpfckpihlkkil)  
+
+
